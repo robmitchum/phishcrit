@@ -1,0 +1,4 @@
+name: Phishcrit
+markdown: redcarpet
+pygments: true
+baseurl: /phishcrit
