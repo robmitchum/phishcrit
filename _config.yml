@@ -1,4 +1,52 @@
-name: Phishcrit
-markdown: redcarpet
-pygments: true
-baseurl: /phishcrit
+title:            Phishcrit
+description:      A Phish listening project
+disqus_shortname: shortname
+url:              http://robmitchum.github.io/phishcrit/
+
+# Owner/author information
+owner:
+  name:           Rob Mitchum
+  avatar:         avatar.jpg
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          you@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        phishcrit
+  facebook:       
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  hmfaysalsocial:	
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+  - title: Setup
+    url: /theme-setup/
+  - title: T-Details
+    url: /technical-details/
+  - title: The Evil-Genius
+    url: http://www.theevilgenius.tk/
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+pygments:    true
+markdown:    kramdown
